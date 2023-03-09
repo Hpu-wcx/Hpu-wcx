@@ -6,4 +6,4 @@
 
 
 
-![code](assests/README.assest/code.gif)
+<img src="assests/README.assest/code.gif" alt="code" style="zoom: 50%;" />
